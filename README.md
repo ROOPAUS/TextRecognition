@@ -1,0 +1,2 @@
+# TextRecognition
+Python, Flask, Docker
